@@ -21,6 +21,3 @@ It is built with **Python** and **Streamlit**, providing an interactive dashboar
 - **Streamlit** (for UI)  
 - **scikit-learn / pandas / NumPy** (for ML & data handling)  
 
----
-
-## 📂 Project Structure
