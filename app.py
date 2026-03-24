@@ -3,11 +3,11 @@ import pandas as pd
 import streamlit as st
 
 st.markdown(
-    "<h2 style='color:green; text-align:center;'>  🌾Data-Driven Crop Prediction Model  </h2>", 
+    "<h2 style='color:green; text-align:center;'>  🌾Data-Driven Crop Recommendation System  </h2>", 
     unsafe_allow_html=True
 )
 st.markdown(
-    "<h6 style='color:gray; text-align:center;'>Data-Driven Crop Prediction Based on NPK and Environmental Parameters</h6>", 
+    "<h6 style='color:gray; text-align:center;'>Data-Driven Crop Recommendation System Based on NPK and Environmental Parameters</h6>", 
     unsafe_allow_html=True
 )
 st.divider()
